@@ -1,14 +1,14 @@
-# aws_web_builder
+# aws_automation_toolkit
 
 Repository for Automating AWS with Python, demonstrating POCs.
 
-## AWSWebBuilder
+## aws_web_builder
 
 AWS Web Builder is a script that will sync a local directory to an s3 bucket, and optionally can configure route 53 or CloudFront.
 
 ### Features
 
-AWSWebBuilder currently has the following features:
+AWS Web Builder currently has the following features:
 - Help using click package
 - Set AWS profile with --profile=<profile_name>
 
@@ -24,3 +24,15 @@ Route 53:
 
 CloudFront:
 - Configure CloudFront Distribution With SSL Cert
+
+## aws_ec2_builder
+
+AWS EC2 Builder is a script that will build ec2 instances and interact with those instances.
+
+### Features
+
+AWS EC2 Builder currently has the following features:
+- Help using click package
+- Set AWS profile with --profile=<profile_name>
+
+EC2 (Elastic Compute Cloud)
