@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        aws_web_builder=aws_web_builder.aws_web_builder:cli
-    
