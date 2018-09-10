@@ -8,21 +8,21 @@ AWS Web Builder is a script that will sync a local directory to an s3 bucket, an
 
 ### Features
 
-AWS Web Builder currently has the following features:
+# AWS Web Builder currently has the following features:
 - Help using click package
 - Set AWS profile with --profile=<profile_name>
 
-S3 (Simple Storage Service):
+# S3 (Simple Storage Service):
 - List bucket
 - List contents of a bucket
 - Create and setup up bucket configuration
 - Sync directory tree to bucket (any OS)
 
-Route 53:
+# Route 53:
 - List hosted zones
 - Configure route 53 domain
 
-CloudFront:
+# CloudFront:
 - Configure CloudFront Distribution With SSL Cert
 
 ## aws_ec2_builder
