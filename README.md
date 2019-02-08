@@ -1,4 +1,5 @@
-# aws_automation_toolkit
+# aws_automation_toolkit (WIP)
+*** Currently on hold while learning other technologies and improving development skills ***
 
 Repository for Automating AWS with Python, demonstrating POCs.
 
